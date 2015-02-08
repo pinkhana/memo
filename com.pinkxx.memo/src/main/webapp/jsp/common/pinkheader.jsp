@@ -9,9 +9,6 @@
 	<title>pink xx</title>
 	<style type="text/css">#header { background: url(images/cropped-pinkhana-header.png) no-repeat !important;height: 150px; }</style>
 	<link rel="stylesheet" type="text/css" href="extjs22/resources/css/ext-all.css" />
-	<link rel="stylesheet" type="text/css" href="extjs22/resources/css/xtheme-light-wine.css" />
-	<link rel="stylesheet" type="text/css" href="extjs22/resources/css/xtheme-light-wine-colors.css" />
-	<link rel="stylesheet" type="text/css" href="css/pinkxx.css"/>
 	<script type="text/javascript" src="jquery/jquery-1.6.2.min.js"></script>
  	<script type="text/javascript" src="extjs22/adapter/ext/ext-base.js"></script>
     <script type="text/javascript" src="extjs22/ext-all.js"></script>
